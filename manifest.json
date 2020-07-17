@@ -1,0 +1,20 @@
+{
+    "name": "firefox-trojan-http-redirect",
+    "version": "1.0.0",
+    "description": "trojan-http-redirect",
+    "icons": {
+      "16": "/app/img/ico.png",
+      "48": "/app/img/ico.png",
+      "128": "/app/img/ico.png"
+    },
+    "offline_enabled": true,
+    "background": {
+      "scripts": ["app/js/background.js"],
+      "persistent": true
+    },
+    "permissions": [
+       "<all_urls>",
+       "tabs"
+    ],
+    "manifest_version": 2
+}

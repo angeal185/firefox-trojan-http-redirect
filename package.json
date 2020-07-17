@@ -1,0 +1,17 @@
+{
+  "name": "firefox-trojan-http-redirect",
+  "version": "1.0.0",
+  "description": "firefox extension - http redirect trojan base",
+  "main": "app/js/background.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/firefox-trojan-http-redirect.git"
+  },
+  "keywords": [],
+  "author": "ben eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeal185/firefox-trojan-http-redirect/issues"
+  },
+  "homepage": "https://github.com/angeal185/firefox-trojan-http-redirect#readme"
+}
